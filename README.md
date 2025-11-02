@@ -154,5 +154,7 @@ Each product has:
 Umashankar G
 
 🔗 Data Science & AI Enthusiast
+
 📬 Passionate about building intelligent systems with ML & Python
+
 📧 umashankargudivada@gmail.com
