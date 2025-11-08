@@ -7,10 +7,15 @@ The Product Recommendation System is designed to suggest similar or related prod
 🚀 Key Features
 
 ✅ Search any product by name
+
 ✅ Get instant product recommendations
+
 ✅ Clean, modern dark UI
+
 ✅ Built with Python + Streamlit
+
 ✅ Uses Machine Learning (Content-Based Filtering)
+
 ✅ Lightweight, fast, and easy to deploy
 
 🧠 How It Works
